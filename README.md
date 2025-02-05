@@ -1,7 +1,7 @@
 # Welcome to my BTech Project!
 
 Hi! I'm **Prajjaval**, senior undergrad at IIT Jodhpur!
-I have done this project "Detection of defects in ball bearings using Machine Learning" under the supervision of our professor, **Dr B Ravindra**.
+I have done this project "Detection of defects in ball bearings using Machine Learning" under the supervision of our professor, **Dr B Ravindra** alongwith **Priyanka**.
 
 
 
